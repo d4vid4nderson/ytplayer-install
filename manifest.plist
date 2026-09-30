@@ -15,9 +15,9 @@
       <key>metadata</key>
       <dict>
         <key>bundle-identifier</key><string>com.d4vid4nderson.ytchannelscraper</string>
-        <key>bundle-version</key><string>1790809610</string>
+        <key>bundle-version</key><string>1790810547</string>
         <key>kind</key><string>software</string>
-        <key>title</key><string>YT Channel Scraper</string>
+        <key>title</key><string>YT Player</string>
       </dict>
     </dict>
   </array>
